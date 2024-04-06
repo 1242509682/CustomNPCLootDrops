@@ -1,7 +1,21 @@
-# PluginTemplate
-
-This repository acts as a baseline plugin to allow you to quickly and easily create new TShock plugins.
-
-# Plugin Development
-
-For more information on TShock plugin development feel free to visit the [TShock repository](https://github.com/Pryaxis/TShock), the [TShock documentation](https://ikebukuro.tshock.co), the [TShock ReadMe](https://tshock.readme.io/docs/) or the official [TShock Discord](https://discord.com/invite/Cav9nYX).
+## 关于默认生成的配置文件说明
+{  
+  "1": {  //NPCID
+    "自定义掉落表": {  
+      "Normal": [  
+        {  
+          "物品ID": 73,  
+          "前缀ID": 0,  
+          "掉落率": 100.0,  
+          "最小数量": 1,  
+          "最大数量": 99,  
+          "普通难度": true,  
+          "专家难度": true,  
+          "大师难度": true  
+        }  
+      ]  
+    },  
+    "配置说明": "默认Normal 白天Day 晚上Night 日食Eclipse 满月Fullmoon 血月Bloodmoon",  
+    "是否掉落默认物品": false  
+  }  
+}  
