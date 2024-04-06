@@ -4,7 +4,7 @@
 ## 更新日志
 ```
 2024年4月6日:对配置文件进行汉化，项目适配.net 6.0
-
+```
 ## 汉化配置文件说明
 位于`./tshock/自定义NPC掉落物.json`,若不存在则会自动创建。  
 
@@ -30,6 +30,6 @@
     "是否掉落默认物品": false
   }
 }
-```
-`"1"`：生物NPC的ID
-`"Normal"`：默认Normal 白天Day 晚上Night 日食Eclipse 满月Fullmoon 血月Bloodmoon
+```  
+`"1"`：生物NPC的ID  
+`"Normal"`：默认Normal 白天Day 晚上Night 日食Eclipse 满月Fullmoon 血月Bloodmoon  
